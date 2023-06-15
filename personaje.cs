@@ -16,8 +16,8 @@ namespace EspacioPersonaje
 
             //CARACTERISTICAS
             private int velocidad;
-            private int destreza;
-            private int fuerza;
+            private double destreza {get => destreza; set => destreza = value;}
+            private double fuerza {get => fuerza; set => fuerza = value;}
             private int nivel;
             private int armadura;
             private int salud = 100;
