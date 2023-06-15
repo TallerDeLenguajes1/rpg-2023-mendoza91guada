@@ -1,0 +1,5 @@
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.csproj.AssemblyReference.cache
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.AssemblyInfoInputs.cache
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.AssemblyInfo.cs
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.csproj.CoreCompileInputs.cache
