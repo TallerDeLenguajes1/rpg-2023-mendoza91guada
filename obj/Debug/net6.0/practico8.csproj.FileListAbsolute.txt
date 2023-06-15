@@ -3,3 +3,13 @@ C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.GeneratedMSBuildEdi
 C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.AssemblyInfoInputs.cache
 C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.AssemblyInfo.cs
 C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\taller1\practico8\bin\Debug\net6.0\practico8.exe
+C:\Users\Alumno\taller1\practico8\bin\Debug\net6.0\practico8.deps.json
+C:\Users\Alumno\taller1\practico8\bin\Debug\net6.0\practico8.runtimeconfig.json
+C:\Users\Alumno\taller1\practico8\bin\Debug\net6.0\practico8.dll
+C:\Users\Alumno\taller1\practico8\bin\Debug\net6.0\practico8.pdb
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.dll
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\refint\practico8.dll
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.pdb
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\practico8.genruntimeconfig.cache
+C:\Users\Alumno\taller1\practico8\obj\Debug\net6.0\ref\practico8.dll

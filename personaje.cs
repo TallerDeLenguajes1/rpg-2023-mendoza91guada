@@ -3,24 +3,24 @@ namespace EspacioPersonaje
     public class Personaje
         {
             //DATOS
-            enum tipo{
+            public enum tipo{
                 luchador= 0,
                 ciudadano= 1,
                 guardia=2,
             }
 
-            string nombre;
-            string apodo;
-            DateTime fechaNac;
-            int edad;
+            public string nombre;
+            public string apodo;
+            public DateTime fechaNac;
+            public int edad;
 
             //CARACTERISTICAS
-            int velocidad;
-            int destreza;
-            int fuerza;
-            int nivel;
-            int armadura;
-            int salud = 100;
+            private int velocidad;
+            private int destreza;
+            private int fuerza;
+            private int nivel;
+            private int armadura;
+            private int salud = 100;
 
             
         } 
